@@ -1,0 +1,36 @@
+package br.edu.uea.model;
+
+public abstract class Usuario {
+
+//	Atributos
+	private String login;
+	private int senha;
+
+//	Metodos
+	public boolean login(String login, int senha) {
+		if (login.equals(this.getLogin()) && senha == this.getSenha()) {
+			return true;
+		}
+		return false;
+	}
+	
+	
+//	Getters e Setters
+	public String getLogin() {
+		return login;
+	}
+
+	public void setLogin(String login) {
+		this.login = login;
+	}
+
+	public int getSenha() {
+		return senha;
+	}
+
+	public void setSenha(int senha) {
+		this.senha = senha;
+	}
+	
+	
+}

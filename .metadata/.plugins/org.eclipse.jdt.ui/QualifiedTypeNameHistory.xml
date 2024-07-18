@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="br.edu.uea.view.MainView"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="br.edu.uea.model.Aluno"/>
+    <fullyQualifiedTypeName name="br.edu.uea.model.Usuario"/>
+    <fullyQualifiedTypeName name="br.edu.uea.control.ProfessorControl"/>
+    <fullyQualifiedTypeName name="br.edu.uea.model.Professor"/>
+</qualifiedTypeNameHistroy>

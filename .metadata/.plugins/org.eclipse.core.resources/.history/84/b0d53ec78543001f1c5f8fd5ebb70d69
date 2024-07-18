@@ -1,0 +1,15 @@
+package br.edu.uea.model;
+
+public class Aluno extends Usuario{
+
+	private String ingresso;
+
+	public String getIngresso() {
+		return ingresso;
+	}
+
+	public void setIngresso(String ingresso) {
+		this.ingresso = ingresso;
+	}
+	
+}

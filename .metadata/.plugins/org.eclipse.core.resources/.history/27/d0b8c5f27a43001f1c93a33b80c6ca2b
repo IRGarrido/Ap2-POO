@@ -1,0 +1,10 @@
+package br.edu.uea.view;
+
+import javax.swing.JOptionPane;
+
+public class MainView {
+
+	public static void main(String[] args) {
+		JOptionPane.showConfirmDialog(null, "Bem vindo ao ChatgpTU, onde você que dá as respostas");
+	}
+}
